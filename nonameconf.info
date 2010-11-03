@@ -1,0 +1,7 @@
+; $Id: nonameconf.info
+name = NoNameConf
+description = Theme for NoNameConf Website
+version = VERSION
+core = 6.x
+engine = phptemplate
+
